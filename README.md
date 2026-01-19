@@ -65,7 +65,6 @@ Bu proje, apartman yönetim süreçlerini şeffaflaştırmak ve kağıt israfın
 
 ---
 
-### README'ye ekleyebileceğin ikonlu özellik listesi (Özet):
 - ✅ **Nakit Kasa Takibi**
 - ✅ **Toplu Borçlandırma**
 - ✅ **WhatsApp Mesajlaşma**
@@ -73,4 +72,3 @@ Bu proje, apartman yönetim süreçlerini şeffaflaştırmak ve kağıt israfın
 - ✅ **Gecikme Zammı Hesaplama**
 - ✅ **Belge/Fiş Arşivleme**
 
-Bu README taslağı, projenin sadece koddan ibaret olmadığını, aynı zamanda ticari veya operasyonel bir değeri olduğunu gösterir.
