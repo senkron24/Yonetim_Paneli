@@ -45,6 +45,16 @@ Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
 
 ---
 
+### 🛡️ Güvenlik Önlemleri
+Bu proje, apartman verilerinin güvenliği için endüstri standartlarını kullanır:
+* **Strict CSRF Protection:** Tüm form ve silme işlemlerinde Cross-Site Request Forgery koruması aktiftir. GET istekleri ile veri değişimi engellenmiştir.
+* **RBAC (Role-Based Access Control):** Yönetici (Tam Yetki) ve Denetçi (Sadece Okuma) yetkileri backend seviyesinde ayrıştırılmıştır.
+* **SQL Injection Koruması:** Tüm veritabanı sorguları `PDO Prepared Statements` ile filtrelenir.
+* **XSS Filtrelemesi:** Kullanıcı girdileri ekrana basılırken temizlenir.
+* **Güvenli Parola Saklama:** Şifreler `password_hash (Bcrypt)` ile veritabanında şifreli tutulur.
+
+---
+
 ## ⚙️ Kurulum
 
 1.  **Veritabanı:** `includes/db.php` dosyasındaki bağlantı bilgilerini kendi sunucunuza göre düzenleyin.
