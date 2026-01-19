@@ -1,4 +1,4 @@
-# 🏢 Tuğba Apartmanı Yönetim Sistemi (Aman-Sys)
+# 🏢 Tuğba Apartmanı Yönetim Sistemi
 
 Modern, hızlı ve WhatsApp entegrasyonlu web tabanlı apartman yönetim paneli. Bu sistem, apartman yöneticilerinin mali kayıtları tutmasını, sakinlerle iletişimi otomatize etmesini ve detaylı raporlar almasını sağlar.
 
