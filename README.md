@@ -35,6 +35,7 @@ Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
 
 *   **Backend:** PHP 8+ (PDO ile Güvenli Veritabanı Yönetimi)
 *   **Frontend:** Bootstrap 5, FontAwesome 6, Google Fonts
+*   **Performans:** Toplu WhatsApp gönderimlerinde sunucu yükünü dengeleyen `Wait & Retry` mekanizması ve `Time Limit` yönetimi.
 *   **Database:** MySQL
 *   **Entegrasyon:** Node.js tabanlı WhatsApp API (Bağlantı Test Aracı Dahil)
 *   **Güvenlik:** 
