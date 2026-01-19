@@ -60,7 +60,7 @@ Bu proje, apartman yönetim süreçlerini şeffaflaştırmak ve kağıt israfın
 ---
 
 ### 👨‍💻 Geliştirici
-*   **Proje Adı:** Tuğba Apartmanı Yönetim Paneli
+*   **Proje Adı:** Apartmanı Yönetim Paneli
 *   **Kullanım Amacı:** Özel Site/Apartman Yönetimi
 
 ---
