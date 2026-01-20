@@ -29,6 +29,18 @@ Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
 *   **Daire/Dükkan Tipleri:** Bağımsız bölümleri tipine göre ayırarak farklı borçlandırma kuralları uygulayabilir.
 *   **Hızlı Arama:** Gelişmiş filtreleme ile daire veya isim üzerinden saniyeler içinde sorgulama.
 
+### 🌍 5. Çoklu Dil Desteği (TR / EN)
+* **Arayüz:** Kullanıcılar tek tıkla paneli **Türkçe** veya **İngilizce** kullanabilir.
+* **Akıllı Bildirimler:** Yabancı uyruklu sakinlere giden WhatsApp ve E-Posta bildirimleri, sistemde kayıtlı uyruklarına göre **otomatik olarak kendi dillerinde** gönderilir.
+
+### 📱 6. Tam Responsive & Mobil Uygulama Deneyimi
+* **Mobil Menü:** Telefondan girildiğinde özel "Hamburger Menü" ve kayar sidebar (çekmece menü) devreye girer.
+* **Kullanıcı Dostu:** Sakinler için basitleştirilmiş, sadece ihtiyaçları olan butonları (Ödeme, Ekstre) içeren temiz mobil arayüz.
+* **WebView Hazır:** Android WebView entegrasyonuna %100 uyumlu altyapı.
+
+### 💳 7. QR Kodlu Ödeme Kolaylığı
+* **Dinamik IBAN:** Yönetici panelinden IBAN güncellendiğinde tüm sistemde anında değişir.
+* **QR Kod:** Sakinler, ödeme ekranında IBAN'ı elle yazmak yerine ekranda çıkan **Karekod (QR)**'u banka uygulamalarına okutarak saniyeler içinde ödeme yapabilir.
 ---
 
 ## 🛠 Teknik Alt Yapı
