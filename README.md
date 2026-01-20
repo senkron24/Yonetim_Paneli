@@ -58,6 +58,17 @@ Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
 
 ---
 
+🌟 Yeni Nesil Özellikler
+* **Çoklu Dil ve Uyruk Desteği: Kullanıcı arayüzü tek tıkla Türkçe veya İngilizce olarak değiştirilebilir.
+
+* **Akıllı Bildirim Sistemi: Yabancı uyruklu sakinlere giden tüm WhatsApp ve E-Posta bilgilendirmeleri, sistemdeki uyruk kayıtlarına göre otomatik olarak İngilizce formatında gönderilir.
+
+* **Karekod (QR) ile Kolay Ödeme: Sakinler, ödeme ekranında IBAN kopyalamak yerine banka uygulamalarıyla anında okutabilecekleri dinamik QR kodlarını kullanabilirler.
+
+* **Yönetilebilir Dinamik IBAN: Site IBAN adresi yönetim panelinden tek tıkla güncellenebilir; bu değişiklik tüm kullanıcı ekranlarına ve QR kodlara anlık yansır.
+
+---
+
 ### 🛡️ Güvenlik Önlemleri
 Bu proje, apartman verilerinin güvenliği için endüstri standartlarını kullanır:
 * **Strict CSRF Protection:** Tüm form ve silme işlemlerinde Cross-Site Request Forgery koruması aktiftir. GET istekleri ile veri değişimi engellenmiştir.
