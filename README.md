@@ -6,28 +6,123 @@ Modern, hızlı ve WhatsApp entegrasyonlu web tabanlı apartman yönetim paneli.
 
 ## 🚀 Öne Çıkan Özellikler
 
-### 1. 📱 WhatsApp Otomasyonu (Node.js Entegrasyonu)
-Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
-* **Giriş Bilgileri:** Yeni kayıt olan sakine kullanıcı adı ve şifresini tek tıkla WhatsApp üzerinden gönderir.
-* **Bireysel Borç Hatırlatma:** Sakine özel güncel borç durumunu şık bir formatla gönderir.
-* **Toplu Borç Mesajı:** Borcu olan tüm sakinlere tek seferde WhatsApp üzerinden hatırlatma yapar.
-* **Duyuru Sistemi:** Yayınlanan genel duyuruları tüm sakinlerin telefonuna anlık olarak iletir.
+### 1. 📱 Node.js Tabanlı Akıllı WhatsApp İletişim Merkezi
+Sıradan SMS’leri unutun. Site yönetimi artık WhatsApp kadar hızlı.  
+Node.js altyapısıyla geliştirilen akıllı iletişim merkezi; site sakinlerinizle canlı bir asistan gibi konuşur, tahsilat süreçlerini hızlandırır ve yönetici üzerindeki operasyonel yükü neredeyse sıfırlar.
+---
+* **🚀 Otomatik Onboarding (Hoş Geldin Botu)**  
+Yeni bir sakin sisteme kaydedildiği anda;  
+tek tuşla “Sitemize Hoş Geldiniz” mesajı, kullanıcı adı, şifre ve yönetim IBAN bilgileri saniyeler içinde WhatsApp üzerinden iletilir.  
+→ Arama yok, kağıt yok, karmaşa yok.
+---
+* **💸 Kişiselleştirilmiş Tahsilat Asistanı**  
+Genel hatırlatmalar yerine, isme ve borca özel mesajlar gönderilir:  
+“Sayın Ahmet Yılmaz, Ocak ayına ait 1.250 TL aidat borcunuz bulunmaktadır.”  
+Bu yaklaşım, tahsilat oranlarını gözle görülür şekilde artırır.
+---
+* **📄 Dijital Belge & Makbuz Gönderimi**  
+Ödeme yapıldığı anda; tahsilat makbuzu, borç dökümü veya hesap ekstresi PDF formatında otomatik olarak WhatsApp’tan gönderilir.  
+→ Kağıt israfı biter, arşiv dijitalleşir.
+---
+* **🌍 Çok Dilli (Multi-Language) Akıllı Bildirim**  
+Sistem, yabancı uyruklu sakinleri otomatik algılar.  
+Mesajı Türkçe yazsanız bile, sakin mesajı İngilizce veya tanımlı dilinde alır.  
+→ Yanlış anlaşılmalar ve iletişim kazaları tamamen ortadan kalkar.
+---
+* **🛡️ Akıllı Kuyruk (Queue) & Anti-Spam Mimarisi**  
+Binlerce sakini olan sitelerde bile mesajlar güvenle iletilir.  
+Node.js tabanlı “bekle & yeniden dene” algoritması sayesinde WhatsApp spam/engel riski oluşmaz, iletim sürekliliği korunur.
+---
+* **📢 Acil Durum & Toplu Duyuru Sistemi**  
+Su kesintisi, asansör bakımı, toplantı çağrıları veya genel bilgilendirmeler  
+tek tuşla, tüm siteye WhatsApp üzerinden anında ulaştırılır.
+
+#################################################################################################
 
 ### 2. 💰 Gelişmiş Finansal Yönetim
-* **Kasa Takibi:** Net nakit durumu, bekleyen alacaklar ve ödenecek faturaların anlık özeti.
-* **Toplu Aidat Tahakkuku:** Tüm dairelere (veya dükkanlar hariç) tek tıkla aylık aidat borcu yansıtır.
-* **Gecikme Zammı:** Kat Mülkiyeti Kanunu'na uygun olarak, vadesi geçen borçlara otomatik **%5 gecikme tazminatı** uygular.
-* **Gider Yönetimi:** Fatura ve harcamaları kategorize eder, makbuz/fiş görsellerini sisteme yükleyerek dijital arşiv oluşturur.
+Site maliyesini tek ekrandan yönetin, kontrolü tamamen elinize alın.  
+Apartman ve site yönetiminde en zor konu olan finans takibini; karmaşık tablolar ve defterler olmadan, net ve anlaşılır bir yapıyla yönetin.
+---
+* **📊 Anlık Finansal Durum**  
+Kasa ve banka bakiyeleri, tahsil edilecek aidatlar, ödenecek faturalar ve net mali durum tek bakışta görüntülenir.  
+→ Güncel mali tabloya her an hakim olun.
+---
+* **🧠 Akıllı Aidat & Borçlandırma Sistemi**  
+Aidatları tek tek uğraşmadan; seçilen aylar ve yıl için  
+tek tıkla tüm dairelere otomatik olarak yansıtın.  
+→ Zaman kaybı ve manuel hata riski ortadan kalkar.
+---
+* **⏰ Gecikme Faizi Otomasyonu**  
+Vadesi geçen borçlara mevzuata uygun şekilde otomatik gecikme tazminatı uygulanır.  
+→ Manuel hesaplama derdi tamamen biter.
+---
+* **📑 Detaylı Gelir – Gider Kontrolü**  
+Elektrik, su, personel, bakım gibi tüm harcamalar kategorilere ayrılır.  
+→ Site parasının nereye gittiği netleşir.
+---
+* **📒 Dijital Muhasebe Defteri**  
+Tüm işlemler tarih, vade ve durum bilgileriyle kayıt altına alınır.  
+Bekleyen, ödenen ve geciken borçlar kolayca ayırt edilir.
+---
+* **🏦 Kasa & Banka Takibi**  
+Nakit kasa ve banka hesapları ayrı ayrı yönetilir.  
+Giriş–çıkış hareketleri anlık bakiyelere yansır.
+---
+* **📈 Görsel Raporlama & Analiz**  
+Gelir–gider dengesi, dönemsel finansal performans ve harcama dağılımları  
+grafikler üzerinden kolayca analiz edilir.
+
+#################################################################################################
 
 ### 3. 📄 Profesyonel Raporlama ve Belgelendirme
-* **Tahsilat Makbuzu:** Yapılan her ödeme için yazdırılabilir, profesyonel görünümlü dijital makbuz oluşturur.
-* **Cari Hesap Ekstresi:** Her sakinin detaylı borç/alacak geçmişini (ekstre) PDF olarak kaydetme veya yazdırma imkanı.
-* **Finansal Analiz:** Tarih aralığına göre gelir-gider dağılımı ve aidat tahsilat performans grafikleri.
+Tüm site mali durumunu tek merkezden analiz edin, sayılarla net kararlar alın.  
+Mizan, gelir–gider dengesi ve cari hesaplar görsel ve anlaşılır şekilde sunulur.
+---
+* **📊 Mizan & Finansal Özet Paneli**  
+Kasa + banka varlıkları, tahsil edilecek alacaklar, ödenecek borçlar ve net özkaynak  
+renkli özet kartlar üzerinden tek ekranda görüntülenir.
+---
+* **📅 Dönem Bazlı Raporlama**  
+İstenilen tarih aralığı seçilerek site mali durumu geçmişe dönük veya aylık olarak analiz edilir.  
+→ Yönetim ve denetim süreçleri kolaylaşır.
+---
+* **📈 Gelir / Gider Dengesi Analizi**  
+Seçilen dönem için toplam gelir ve gider tutarları karşılaştırmalı olarak sunulur.  
+→ Nakit akışı ve bütçe dengesi net biçimde görülür.
+---
+* **📉 Gider Analizi (Harcamalar Nereye Gitti?)**  
+Yapılan harcamalar kategori bazında analiz edilir.  
+→ Site bütçesinin hangi kalemlerde yoğunlaştığı kolayca tespit edilir.
+---
+* **🧾 Cari Hesap & Ekstre Görünümü**  
+Sakin alacakları, satıcı borçları ve kasa hareketleri düzenli şekilde raporlanır.  
+→ PDF olarak kaydetme ve yazdırma imkanı sunulur.
+
+#################################################################################################
 
 ### 4. 👥 Sakin ve Daire Yönetimi
-* **Ev Sahibi / Kiracı Ayrımı:** Mülk sahibi ve yaşayan kişi bilgilerini ayrı ayrı takip eder.
-* **Daire/Dükkan Tipleri:** Bağımsız bölümleri tipine göre ayırarak farklı borçlandırma kuralları uygulayabilir.
-* **Hızlı Arama:** Gelişmiş filtreleme ile daire veya isim üzerinden saniyeler içinde sorgulama.
+Sakin bilgilerini tek merkezden yönetin, karışıklığı tamamen ortadan kaldırın.  
+Ev sahibi–kiracı ayrımı, çok dilli yapı ve hızlı kayıt ekranlarıyla tüm site düzen altında.
+---
+* **🏠 Ev Sahibi / Kiracı Ayrımı**  
+Mülk sahibi ve dairede yaşayan kişi bilgileri ayrı ayrı tanımlanır ve takip edilir.  
+→ Borçlandırma ve bildirimler doğru kişiye gider.
+---
+* **🌍 Uyruk & Dil Bazlı Yönetim (TR / EN)**  
+Sakinlerin uyruk ve iletişim dili seçilebilir.  
+→ Bildirimler ve mesajlar otomatik olarak doğru dilde iletilir.
+---
+* **⚡ Hızlı Sakin Kaydı & Düzenleme**  
+Yeni sakinler hızlı kayıt paneliyle saniyeler içinde eklenir.  
+Mevcut kayıtlar popup ekran üzerinden kolayca güncellenir.
+---
+* **🏢 Daire / Blok Bilgilendirme Yapısı**  
+Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.  
+→ Site yapısı her zaman net ve erişilebilir olur.
+---
+* **🔍 Hızlı Arama & Filtreleme**  
+İsim, daire veya blok bilgisine göre gelişmiş arama yapılabilir.  
+→ Yüzlerce kayıt arasında saniyeler içinde doğru sakine ulaşılır.
 
 ### 5. 🌍 Çoklu Dil ve Uyruk Desteği (TR / EN)
 * **Arayüz:** Kullanıcılar tek tıkla paneli **Türkçe** veya **İngilizce** kullanabilir.
@@ -47,57 +142,62 @@ Sistem, sakinlerle olan iletişimi tamamen dijitalleştirir:
 * **Zorunlu Şifre Değişimi:** Yeni eklenen veya şifresi sıfırlanan üyeler, ilk girişlerinde şifre değiştirmeye zorlanır.
 * **Anlık Yedekleme:** Yönetici panelinden sistemin tüm veritabanı yedeği tek tıkla `.sql` formatında indirilebilir.
 
----
+#################################################################################################
 
 ## 🛠 Teknik Alt Yapı
 
-* **Backend:** PHP 8+ (PDO ile Güvenli Veritabanı Yönetimi)
+* **Backend:** PHP 8+ (PDO ile güvenli veritabanı erişimi)
 * **Frontend:** Bootstrap 5, FontAwesome 6, Google Fonts
-* **Kütüphaneler:** `flag-icon-css` (Vektörel Bayraklar), `QR Server API` (Dinamik Karekod)
-* **Performans:** Toplu WhatsApp gönderimlerinde sunucu yükünü dengeleyen `Wait & Retry` mekanizması.
-* **Database:** MySQL
+* **Veritabanı:** MySQL
 * **Entegrasyon:** Node.js tabanlı WhatsApp API
-* **Güvenlik:** * CSRF Token koruması.
-    * `password_hash` (Bcrypt) ile şifreleme.
-    * SQL Injection koruması (Prepared Statements).
-    * XSS Filtrelemesi.
-    * `ob_start()` ile güvenli header yönlendirmeleri.
+* **Kütüphaneler:**  
+  * `flag-icon-css` – Vektörel ülke bayrakları  
+  * `QR Server API` – Dinamik QR / karekod üretimi
+* **Performans:**  
+  * Toplu WhatsApp gönderimlerinde sunucu yükünü dengeleyen **Wait & Retry** mekanizması  
+  * Kuyruk (queue) mantığı ile stabil mesaj iletimi
+* **Güvenlik:**  
+  * CSRF Token koruması  
+  * `password_hash` (Bcrypt) ile güçlü parola şifreleme  
+  * SQL Injection koruması (Prepared Statements)  
+  * XSS filtreleme ve input sanitizasyonu  
+  * `ob_start()` ile güvenli header yönlendirmeleri
 
----
+#################################################################################################
 
 ### 🛡️ Güvenlik Önlemleri
-Bu proje, apartman verilerinin güvenliği için endüstri standartlarını kullanır:
-* **Strict CSRF Protection:** Tüm form ve silme işlemlerinde Cross-Site Request Forgery koruması aktiftir.
-* **RBAC (Role-Based Access Control):** Yönetici (Tam Yetki), Denetçi (Sadece Okuma) ve Sakin (Kısıtlı) yetkileri backend seviyesinde ayrıştırılmıştır.
-* **SQL Injection Koruması:** Tüm veritabanı sorguları `PDO Prepared Statements` ile filtrelenir.
-* **Güvenli Parola Saklama:** Şifreler `password_hash` ile veritabanında şifreli tutulur.
+Bu proje, apartman ve site verilerinin güvenliği için endüstri standartlarını kullanır ve çok katmanlı bir koruma yapısı sunar:
+* **Strict CSRF Protection:**  
+  Tüm form gönderimleri ve silme işlemlerinde Cross-Site Request Forgery (CSRF) koruması aktiftir.
+* **RBAC (Role-Based Access Control):**  
+  Yönetici (tam yetki), Denetçi (sadece okuma) ve Sakin (kısıtlı erişim) rolleri backend seviyesinde kesin olarak ayrıştırılmıştır.
+* **SQL Injection Koruması:**  
+  Tüm veritabanı sorguları `PDO Prepared Statements` kullanılarak güvenli şekilde çalıştırılır.
+* **Güvenli Parola Saklama:**  
+  Kullanıcı şifreleri `password_hash` (Bcrypt) ile tek yönlü olarak şifrelenir.
+* **Canlı MySQL Replikasyonu & Yedekleme:**  
+  Ana veritabanı, farklı bir sunucuda konumlanan replikasyonlu MySQL sunucusuna **gerçek zamanlı** olarak aktarılır.  
+  → Veri kaybı riskini minimize eder, yüksek erişilebilirlik ve felaket senaryolarına karşı güvenlik sağlar.
 
----
-
-## ⚙️ Kurulum
-
-1.  **Veritabanı Kurulumu:** PhpMyAdmin üzerinden yeni bir veritabanı oluşturun ve `database.sql` (veya `yedek.sql`) dosyasını içeri aktarın (Import).
-2.  **Bağlantı Ayarları:** `includes/db.php` dosyasındaki veritabanı bilgilerini kendi sunucunuza göre düzenleyin.
-3.  **WhatsApp API:** Node.js sunucunuzun çalışır durumda olduğundan emin olun.
-4.  **İzinler:** `uploads/` klasörüne yazma izni (chmod 777 veya 755) verin.
-5.  **Test:** `admin/test_wa.php` dosyasını çalıştırarak bağlantıları kontrol edin.
-
----
+#################################################################################################
 
 ## 📝 Notlar
-Bu proje, apartman yönetim süreçlerini şeffaflaştırmak ve kağıt israfını önlemek amacıyla geliştirilmiştir. Özellikle **%5 Gecikme Zammı**, **Dinamik QR Kod** ve **WhatsApp hatırlatıcıları** ile tahsilat oranlarını %40'a kadar artırmayı hedefler.
+Bu proje; apartman ve site yönetim süreçlerini dijitalleştirerek şeffaflığı artırmak, manuel işlemleri azaltmak ve kağıt israfını ortadan kaldırmak amacıyla geliştirilmiştir.  
 
----
+Özellikle **%5 Gecikme Zammı**, **dinamik QR kod ile ödeme yönlendirme** ve **WhatsApp hatırlatıcıları** sayesinde tahsilat süreçlerinin hızlandırılması ve aidat ödeme oranlarının **%40’a kadar artırılması** hedeflenmektedir.
+
+#################################################################################################
 
 ### 👨‍💻 Geliştirici
-* **Proje Adı:** Apartmanı Yönetim Paneli
-* **Kullanım Amacı:** Özel Site/Apartman Yönetimi
+* **Proje Adı:** SaaS Master Paneli
+* **Kullanım Amacı:** Özel site ve apartman yönetimi için geliştirilmiş kapsamlı yönetim sistemi
 
----
+#################################################################################################
 
-- ✅ **Nakit Kasa Takibi**
-- ✅ **Toplu Borçlandırma**
-- ✅ **WhatsApp Mesajlaşma**
-- ✅ **Çoklu Dil & Mobil Uygulama**
-- ✅ **Denetçi & Yedekleme Sistemi**
-- ✅ **QR Kodlu Ödeme**
+### ✅ Öne Çıkan Fonksiyonlar
+- ✅ **Nakit Kasa & Banka Takibi**
+- ✅ **Toplu Aidat / Borçlandırma**
+- ✅ **WhatsApp Tabanlı Mesajlaşma & Bildirimler**
+- ✅ **Çoklu Dil Desteği & Mobil Uyumlu Arayüz**
+- ✅ **Denetçi Rolü & Otomatik Yedekleme**
+- ✅ **QR Kod ile Hızlı Ödeme**
