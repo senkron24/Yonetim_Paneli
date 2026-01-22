@@ -203,6 +203,9 @@ Bu proje, apartman ve site verilerinin güvenliği için endüstri standartları
 * **Canlı MySQL Replikasyonu & Yedekleme:**  
   Ana veritabanı, farklı bir sunucuda konumlanan replikasyonlu MySQL sunucusuna **gerçek zamanlı** olarak aktarılır.  
   → Veri kaybı riskini minimize eder, yüksek erişilebilirlik ve felaket senaryolarına karşı güvenlik sağlar.
+* **SSL / HTTPS Şifreleme:**  
+  Sistem, ücretsiz SSL sertifikası ile HTTPS üzerinden çalışır.  
+  Kullanıcı adı, şifre ve finansal veriler uçtan uca şifrelenir.
 
 ---
 
