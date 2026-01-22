@@ -152,6 +152,20 @@ Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.
 
 ---
 
+### 9. 📲 Sakin Self-Service Paneli
+
+Sakinler için özel olarak tasarlanmış bu panel sayesinde, yöneticinin üzerindeki iletişim ve destek yükü ciddi şekilde azalır.  
+Sakinler yalnızca ihtiyaç duydukları bilgilere hızlı ve güvenli şekilde erişir.
+
+- 💳 **Borcum Var mı?**  
+  Güncel aidat ve borç durumu anlık olarak görüntülenir.
+- 💰 **Ödeme Yap**  
+  IBAN veya QR kod üzerinden hızlı ödeme yönlendirmesi.
+- 📄 **Ekstre & Makbuz İndir**  
+  Ödeme geçmişi ve cari hesap ekstresi PDF olarak indirilebilir.
+
+---
+
 ## 🛠 Teknik Alt Yapı
 
 * **Backend:** PHP 8+ (PDO ile güvenli veritabanı erişimi)
@@ -209,3 +223,41 @@ Bu proje; apartman ve site yönetim süreçlerini dijitalleştirerek şeffaflı�
 - ✅ **Çoklu Dil Desteği & Mobil Uyumlu Arayüz**
 - ✅ **Denetçi Rolü & Otomatik Yedekleme**
 - ✅ **QR Kod ile Hızlı Ödeme**
+
+---
+
+## 🗺️ Gelecek Planları (Roadmap)
+
+Bu proje aktif olarak geliştirilmektedir.  
+Aşağıdaki özellikler, kullanıcı geri bildirimleri ve saha ihtiyaçlarına göre **planlanan eklentiler** arasındadır.
+
+### 💳 Otomatik Ödeme Takibi (Banka Entegrasyonu)
+- IBAN’a gelen havalelerin otomatik olarak algılanması  
+- Açıklama alanına göre **daire no / QR referansı** ile eşleştirme  
+- Ödeme tespit edildiğinde:  
+  → *“Ödeme geldi → borç otomatik kapandı”* süreci
+
+### 📅 Otomatik Aidat Planı
+- Yıllık veya dönemsel aidat planı tanımlama  
+- Her ay borcun otomatik oluşturulması  
+- Yönetici müdahalesi olmadan çalışan tam otomasyon
+
+### 🤖 Otomatik Bildirim Senaryoları
+- WhatsApp ve Telegram için zaman bazlı senaryolar  
+  - Vade öncesi hatırlatma  
+  - Vade günü bildirimi  
+  - Gecikme uyarıları  
+- Tamamen otomatik tahsilat akışı
+
+### 🔌 Banka & Finans API Entegrasyonları
+- Banka hareketlerinin API üzerinden çekilmesi  
+- Ödeme eşleştirme ve raporlama süreçlerinin güçlendirilmesi
+
+### 🏢 Multi-Site Yönetimi (Yönetim Firmaları İçin)
+- Tek panelden birden fazla site yönetimi  
+- Site bazlı lisanslama ve raporlama  
+- Profesyonel yönetim firmalarına özel yapı
+
+---
+
+> 📌 Roadmap, ihtiyaçlara göre güncellenir ve kademeli olarak devreye alınır.
