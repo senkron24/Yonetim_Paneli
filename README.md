@@ -37,7 +37,7 @@ Node.js tabanlı “bekle & yeniden dene” algoritması sayesinde WhatsApp spam
 Su kesintisi, asansör bakımı, toplantı çağrıları veya genel bilgilendirmeler  
 tek tuşla, tüm siteye WhatsApp üzerinden anında ulaştırılır.
 
-#################################################################################################
+
 
 ### 2. 💰 Gelişmiş Finansal Yönetim
 Site maliyesini tek ekrandan yönetin, kontrolü tamamen elinize alın.  
@@ -72,7 +72,7 @@ Giriş–çıkış hareketleri anlık bakiyelere yansır.
 Gelir–gider dengesi, dönemsel finansal performans ve harcama dağılımları  
 grafikler üzerinden kolayca analiz edilir.
 
-#################################################################################################
+
 
 ### 3. 📄 Profesyonel Raporlama ve Belgelendirme
 Tüm site mali durumunu tek merkezden analiz edin, sayılarla net kararlar alın.  
@@ -98,7 +98,7 @@ Yapılan harcamalar kategori bazında analiz edilir.
 Sakin alacakları, satıcı borçları ve kasa hareketleri düzenli şekilde raporlanır.  
 → PDF olarak kaydetme ve yazdırma imkanı sunulur.
 
-#################################################################################################
+
 
 ### 4. 👥 Sakin ve Daire Yönetimi
 Sakin bilgilerini tek merkezden yönetin, karışıklığı tamamen ortadan kaldırın.  
@@ -142,7 +142,7 @@ Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.
 * **Zorunlu Şifre Değişimi:** Yeni eklenen veya şifresi sıfırlanan üyeler, ilk girişlerinde şifre değiştirmeye zorlanır.
 * **Anlık Yedekleme:** Yönetici panelinden sistemin tüm veritabanı yedeği tek tıkla `.sql` formatında indirilebilir.
 
-#################################################################################################
+
 
 ## 🛠 Teknik Alt Yapı
 
@@ -163,7 +163,6 @@ Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.
   * XSS filtreleme ve input sanitizasyonu  
   * `ob_start()` ile güvenli header yönlendirmeleri
 
-#################################################################################################
 
 ### 🛡️ Güvenlik Önlemleri
 Bu proje, apartman ve site verilerinin güvenliği için endüstri standartlarını kullanır ve çok katmanlı bir koruma yapısı sunar:
@@ -179,20 +178,17 @@ Bu proje, apartman ve site verilerinin güvenliği için endüstri standartları
   Ana veritabanı, farklı bir sunucuda konumlanan replikasyonlu MySQL sunucusuna **gerçek zamanlı** olarak aktarılır.  
   → Veri kaybı riskini minimize eder, yüksek erişilebilirlik ve felaket senaryolarına karşı güvenlik sağlar.
 
-#################################################################################################
 
 ## 📝 Notlar
 Bu proje; apartman ve site yönetim süreçlerini dijitalleştirerek şeffaflığı artırmak, manuel işlemleri azaltmak ve kağıt israfını ortadan kaldırmak amacıyla geliştirilmiştir.  
 
 Özellikle **%5 Gecikme Zammı**, **dinamik QR kod ile ödeme yönlendirme** ve **WhatsApp hatırlatıcıları** sayesinde tahsilat süreçlerinin hızlandırılması ve aidat ödeme oranlarının **%40’a kadar artırılması** hedeflenmektedir.
 
-#################################################################################################
 
 ### 👨‍💻 Geliştirici
 * **Proje Adı:** SaaS Master Paneli
 * **Kullanım Amacı:** Özel site ve apartman yönetimi için geliştirilmiş kapsamlı yönetim sistemi
 
-#################################################################################################
 
 ### ✅ Öne Çıkan Fonksiyonlar
 - ✅ **Nakit Kasa & Banka Takibi**
