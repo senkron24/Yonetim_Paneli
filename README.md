@@ -163,7 +163,10 @@ Sakinler yalnızca ihtiyaç duydukları bilgilere hızlı ve güvenli şekilde e
   IBAN veya QR kod üzerinden hızlı ödeme yönlendirmesi.
 - 📄 **Ekstre & Makbuz İndir**  
   Ödeme geçmişi ve cari hesap ekstresi PDF olarak indirilebilir.
-
+- 📢 **Duyurular**  
+  Yönetici tarafından paylaşılan duyurular (genel bilgilendirme, bakım, toplantı vb.)  
+  sakin panelinde anlık olarak görüntülenir.
+  
 ---
 
 ## 🛠 Teknik Alt Yapı
