@@ -72,7 +72,7 @@ Giriş–çıkış hareketleri anlık bakiyelere yansır.
 Gelir–gider dengesi, dönemsel finansal performans ve harcama dağılımları  
 grafikler üzerinden kolayca analiz edilir.
 
-
+---
 
 ### 3. 📄 Profesyonel Raporlama ve Belgelendirme
 Tüm site mali durumunu tek merkezden analiz edin, sayılarla net kararlar alın.  
@@ -98,7 +98,7 @@ Yapılan harcamalar kategori bazında analiz edilir.
 Sakin alacakları, satıcı borçları ve kasa hareketleri düzenli şekilde raporlanır.  
 → PDF olarak kaydetme ve yazdırma imkanı sunulur.
 
-
+---
 
 ### 4. 👥 Sakin ve Daire Yönetimi
 Sakin bilgilerini tek merkezden yönetin, karışıklığı tamamen ortadan kaldırın.  
@@ -124,25 +124,33 @@ Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.
 İsim, daire veya blok bilgisine göre gelişmiş arama yapılabilir.  
 → Yüzlerce kayıt arasında saniyeler içinde doğru sakine ulaşılır.
 
+---
+
 ### 5. 🌍 Çoklu Dil ve Uyruk Desteği (TR / EN)
 * **Arayüz:** Kullanıcılar tek tıkla paneli **Türkçe** veya **İngilizce** kullanabilir.
 * **Akıllı Bildirimler:** Yabancı uyruklu sakinlere giden WhatsApp ve E-Posta bildirimleri, sistemde kayıtlı uyruklarına göre **otomatik olarak kendi dillerinde** gönderilir.
+
+---
 
 ### 6. 📱 Tam Responsive & Mobil Uygulama Deneyimi
 * **Mobil Menü:** Telefondan girildiğinde özel "Hamburger Menü" ve kayar sidebar (çekmece menü) devreye girer.
 * **Kullanıcı Dostu:** Sakinler için basitleştirilmiş, sadece ihtiyaçları olan butonları (Ödeme, Ekstre) içeren temiz mobil arayüz.
 * **WebView Hazır:** Android WebView entegrasyonuna %100 uyumlu altyapı.
 
+---
+
 ### 7. 💳 QR Kodlu Ödeme Kolaylığı
 * **Dinamik IBAN:** Yönetici panelinden IBAN güncellendiğinde tüm sistemde anında değişir.
 * **QR Kod:** Sakinler, ödeme ekranında IBAN'ı elle yazmak yerine ekranda çıkan **Karekod (QR)**'u banka uygulamalarına okutarak saniyeler içinde ödeme yapabilir.
+
+---
 
 ### 8. 🛡️ Gelişmiş Sistem Yönetimi ve Güvenlik
 * **Denetçi (Auditor) Rolü:** Finansal kayıtları ve raporları inceleyebilen ancak veri değiştiremeyen salt okunur hesaplar oluşturulabilir.
 * **Zorunlu Şifre Değişimi:** Yeni eklenen veya şifresi sıfırlanan üyeler, ilk girişlerinde şifre değiştirmeye zorlanır.
 * **Anlık Yedekleme:** Yönetici panelinden sistemin tüm veritabanı yedeği tek tıkla `.sql` formatında indirilebilir.
 
-
+---
 
 ## 🛠 Teknik Alt Yapı
 
@@ -163,6 +171,7 @@ Blok, daire numarası ve oturum tipi bilgileri düzenli şekilde tutulur.
   * XSS filtreleme ve input sanitizasyonu  
   * `ob_start()` ile güvenli header yönlendirmeleri
 
+---
 
 ### 🛡️ Güvenlik Önlemleri
 Bu proje, apartman ve site verilerinin güvenliği için endüstri standartlarını kullanır ve çok katmanlı bir koruma yapısı sunar:
@@ -178,17 +187,20 @@ Bu proje, apartman ve site verilerinin güvenliği için endüstri standartları
   Ana veritabanı, farklı bir sunucuda konumlanan replikasyonlu MySQL sunucusuna **gerçek zamanlı** olarak aktarılır.  
   → Veri kaybı riskini minimize eder, yüksek erişilebilirlik ve felaket senaryolarına karşı güvenlik sağlar.
 
+---
 
 ## 📝 Notlar
 Bu proje; apartman ve site yönetim süreçlerini dijitalleştirerek şeffaflığı artırmak, manuel işlemleri azaltmak ve kağıt israfını ortadan kaldırmak amacıyla geliştirilmiştir.  
 
 Özellikle **%5 Gecikme Zammı**, **dinamik QR kod ile ödeme yönlendirme** ve **WhatsApp hatırlatıcıları** sayesinde tahsilat süreçlerinin hızlandırılması ve aidat ödeme oranlarının **%40’a kadar artırılması** hedeflenmektedir.
 
+---
 
 ### 👨‍💻 Geliştirici
 * **Proje Adı:** SaaS Master Paneli
 * **Kullanım Amacı:** Özel site ve apartman yönetimi için geliştirilmiş kapsamlı yönetim sistemi
 
+---
 
 ### ✅ Öne Çıkan Fonksiyonlar
 - ✅ **Nakit Kasa & Banka Takibi**
