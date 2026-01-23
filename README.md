@@ -169,6 +169,20 @@ Sakinler yalnızca ihtiyaç duydukları bilgilere hızlı ve güvenli şekilde e
   
 ---
 
+### 10. 👷 Profesyonel Personel (Staff) & Özlük Yönetimi
+
+Site çalışanlarının takibi artık daire sakinleri kadar düzenli. Personel giderlerini, maaş ödemelerini ve özlük bilgilerini dijitalleştirerek yönetimsel şeffaflığı bir adım öteye taşıyın.
+
+💳 Akıllı Maaş & Hakediş Sistemi Personel maaşlarını her ay manuel girmekle uğraşmayın. Tanımlı maaşlar üzerinden tek tıkla "Liability" (Hakediş) kaydı oluşturun. → Kimin ne kadar alacağı sistemde her an güncel kalsın.
+📂 Dijital Özlük Dosyası Çalışanların TC Kimlik No, SGK Numarası, İşe Giriş Tarihi ve Görev Tanımı gibi kritik bilgilerini güvenli bir şekilde saklayın.
+→ Personel bilgilerine ihtiyaç duyduğunuzda dosyalar arasında kaybolmayın.
+🏦 Banka & IBAN Entegrasyonu Personel banka hesap bilgilerini (IBAN) sisteme kaydedin. Maaş ödemesi yaparken yanlış hesaba gönderim riskini ortadan kaldırın.
+💸 Tek Tıkla Maaş Ödemesi Ödemeler yapıldığı anda, seçilen kasa veya banka hesabından (site_accounts) tutar otomatik olarak düşer ve personelin cari hesabı anında güncellenir.
+📑 Personel Gider Analizi Maaş, SGK ve ek ödemeler gibi tüm personel maliyetlerini finansal raporlarda otomatik olarak görün.
+→ Site bütçesindeki personel yükünü net bir şekilde analiz edin.
+
+---
+
 ## 🛠 Teknik Alt Yapı
 
 * **Backend:** PHP 8+ (PDO ile güvenli veritabanı erişimi)
