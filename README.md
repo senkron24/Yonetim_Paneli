@@ -243,6 +243,8 @@ Bu proje; apartman ve site yönetim süreçlerini dijitalleştirerek şeffaflı�
 - ✅ **Çoklu Dil Desteği & Mobil Uyumlu Arayüz**
 - ✅ **Denetçi Rolü & Otomatik Yedekleme**
 - ✅ **QR Kod ile Hızlı Ödeme**
+- ✅ Personel Maaş & Özlük Takibi
+- ✅ Cari Hesap Bazlı Maaş Ödeme Sistemi
 
 ---
 
