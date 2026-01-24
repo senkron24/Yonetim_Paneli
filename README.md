@@ -36,7 +36,11 @@ Node.js tabanlı “bekle & yeniden dene” algoritması sayesinde WhatsApp spam
 * **📢 Acil Durum & Toplu Duyuru Sistemi**  
 Su kesintisi, asansör bakımı, toplantı çağrıları veya genel bilgilendirmeler  
 tek tuşla, tüm siteye WhatsApp üzerinden anında ulaştırılır.
-
+---
+🧾 Tam Entegre Hibrit Makbuz Sistemi (WhatsApp & Mail & PDF) Ödeme alındığı anda sistem, kişiye özel ve yüksek güvenlikli (Tokenize) bir dijital makbuz oluşturur. 
+→ Sakinler, WhatsApp veya E-Posta üzerinden gelen linke tıklayarak uygulamaya giriş yapmaya gerek kalmadan makbuzlarını saniyeler içinde görüntüler. 
+→ Özgür Seçim: İster ekranda dijital olarak görüntüle, ister tek tuşla resmi PDF formatında cihazına indir. 
+→ Sıfır Bekleme: Sunucu dostu mimari sayesinde, binlerce makbuz aynı anda, bekleme yapmadan ve sistemi yormadan anında oluşturulur.
 
 
 ### 2. 💰 Gelişmiş Finansal Yönetim
