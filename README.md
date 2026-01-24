@@ -173,13 +173,13 @@ Sakinler yalnızca ihtiyaç duydukları bilgilere hızlı ve güvenli şekilde e
 
 Site çalışanlarının takibi artık daire sakinleri kadar düzenli. Personel giderlerini, maaş ödemelerini ve özlük bilgilerini dijitalleştirerek yönetimsel şeffaflığı bir adım öteye taşıyın.
 
-💳 Akıllı Maaş & Hakediş Sistemi Personel maaşlarını her ay manuel girmekle uğraşmayın. Tanımlı maaşlar üzerinden tek tıkla "Liability" (Hakediş) kaydı oluşturun. → Kimin ne kadar alacağı sistemde her an güncel kalsın.
-📂 Dijital Özlük Dosyası Çalışanların TC Kimlik No, SGK Numarası, İşe Giriş Tarihi ve Görev Tanımı gibi kritik bilgilerini güvenli bir şekilde saklayın.
-→ Personel bilgilerine ihtiyaç duyduğunuzda dosyalar arasında kaybolmayın.
-🏦 Banka & IBAN Entegrasyonu Personel banka hesap bilgilerini (IBAN) sisteme kaydedin. Maaş ödemesi yaparken yanlış hesaba gönderim riskini ortadan kaldırın.
-💸 Tek Tıkla Maaş Ödemesi Ödemeler yapıldığı anda, seçilen kasa veya banka hesabından (site_accounts) tutar otomatik olarak düşer ve personelin cari hesabı anında güncellenir.
-📑 Personel Gider Analizi Maaş, SGK ve ek ödemeler gibi tüm personel maliyetlerini finansal raporlarda otomatik olarak görün.
-→ Site bütçesindeki personel yükünü net bir şekilde analiz edin.
+- 💳 Akıllı Maaş & Hakediş Otomasyonu: Her ay maaş hesaplamakla vakit kaybetmeyin. Tanımlı maaşlar üzerinden tek tıkla "Hakediş" (Liability) kaydı oluşturun. Sistem, o ayın hakedişini saniyeler içinde cari hesaba işler.
+- ⚖️ Yasal Mevzuata Uygun İzin Takibi: Sistem, personelin işe giriş tarihini baz alarak kıdemini otomatik hesaplar. 1 yılını doldurmamış personele yanlışlıkla yıllık izin verilmesini engeller, yasal risklerin önüne geçer.
+- 📉 İzin & Maaş Entegrasyonu (Akıllı Kesinti): Personel ücretsiz izne mi ayrıldı? Sistem, iznin hangi aya ne kadar denk geldiğini "Tarih Kesişimi" mantığıyla milimetrik hesaplar ve hakediş eklerken size "Bu personel bu ay 3 gün gelmedi, - maaşından şu kadar kesinti yapmalısın" uyarısını verir.
+- 🗓️ Esnek Gün Yönetimi: Resmi tatiller veya Pazar günleri izin hesabını karıştırmasın. Sistem otomatik gün sayısını önerir, siz dilerseniz manuel müdahale ile düşülecek gün sayısını (Örn: Pazar hariç) düzeltebilirsiniz.
+- 📂 Dijital Özlük Dosyası: TC Kimlik, SGK No, İşe Giriş Tarihi ve Banka IBAN bilgileri elinizin altında. Ödeme yaparken IBAN arama derdine son verin, yanlış hesaba gönderim riskini sıfıra indirin.
+- 🎨 Ayrıştırılmış Görsel Takip: Finansal hareketler Mavi, İzin ve devamsızlıklar Sarı sekmelerde! Karışıklığa yer yok; personelin hem parasal durumunu hem de izin bakiyesini tek bakışta, net bir arayüzle yönetin.
+-📊 Tam Maliyet Analizi: Sadece net maaş değil; avanslar, kesintiler ve ek ödemelerle birlikte personelin site bütçesine olan gerçek maliyetini anlık raporlarda görün.
 
 ---
 
