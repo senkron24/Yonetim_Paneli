@@ -41,7 +41,11 @@ tek tuşla, tüm siteye WhatsApp üzerinden anında ulaştırılır.
 → Sakinler, WhatsApp veya E-Posta üzerinden gelen linke tıklayarak uygulamaya giriş yapmaya gerek kalmadan makbuzlarını saniyeler içinde görüntüler. 
 → Özgür Seçim: İster ekranda dijital olarak görüntüle, ister tek tuşla resmi PDF formatında cihazına indir. 
 → Sıfır Bekleme: Sunucu dostu mimari sayesinde, binlerce makbuz aynı anda, bekleme yapmadan ve sistemi yormadan anında oluşturulur.
-
+---
+* **📧 Profesyonel Multi-SMTP & White-Label E-Posta Yönetimi Her site yönetimi, kendi kurumsal kimliğini yansıtmak için kendi e-posta sunucusunu (Gmail, Outlook, Yandex veya Kurumsal Hosting) sisteme entegre edebilir.
+→ Akıllı Fallback (Yedekleme) Teknolojisi: Yönetici özel bir ayar yapmasa veya kendi sunucusu hata verse bile sistem durmaz; otomatik olarak merkezi sunucu altyapısını devreye sokarak mailleri garantili bir şekilde ulaştırır.
+→ Tek Tıkla Hızlı Kurulum: Karmaşık port ve sunucu ayarlarıyla uğraşmak yok. Gmail, Outlook ve Yandex için hazır şablonlar sayesinde teknik bilgi gerektirmeden saniyeler içinde kurulum yapılır.
+→ Anti-Spam & Yüksek Güvenlik: TLS/SSL şifreleme standartlarına tam uyum ve anlık "Bağlantı Testi" özelliği ile mailleriniz Gereksiz (Spam) kutusuna değil, doğrudan sakinlerin gelen kutusuna düşer.
 
 ### 2. 💰 Gelişmiş Finansal Yönetim
 Site maliyesini tek ekrandan yönetin, kontrolü tamamen elinize alın.  
