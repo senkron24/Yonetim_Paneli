@@ -10,10 +10,12 @@ Modern, hızlı ve WhatsApp entegrasyonlu web tabanlı apartman yönetim paneli.
 Sıradan SMS’leri unutun. Site yönetimi artık WhatsApp kadar hızlı.  
 Node.js altyapısıyla geliştirilen akıllı iletişim merkezi; site sakinlerinizle canlı bir asistan gibi konuşur, tahsilat süreçlerini hızlandırır ve yönetici üzerindeki operasyonel yükü neredeyse sıfırlar.
 ---
-* **🚀 Onboarding (Hoş Geldin Botu)**  
-Yeni bir sakin sisteme kaydedildiği anda;  
-tek tuşla “Sitemize Hoş Geldiniz” mesajı, kullanıcı adı, şifre ve yönetim IBAN bilgileri saniyeler içinde WhatsApp üzerinden iletilir.  
-→ Arama yok, kağıt yok, karmaşa yok.
+* **🚀 Akıllı Onboarding & Çok Kanallı İletişim
+Sakinlerinizi sisteme eklediğiniz anda, iletişim kurmak için kağıt çıktılarına veya telefon aramalarına son. Sistem, sakinin Uyruk/Dil (TR/EN) seçimine göre otomatik olarak kişiselleştirilmiş mesajlar kurgular.
+👋 Tek Tuşla "Hoş Geldin": Yeni sakine; kullanıcı adı, şifre, yönetim paneli linki ve IBAN bilgilerini içeren profesyonel bir "Sitemize Hoş Geldiniz" mesajını WhatsApp veya E-Posta üzerinden saniyeler içinde iletin.
+🔔 Akıllı Borç Hatırlatma: Ödemesi geciken sakinlere, seçilen dilde (Türkçe veya İngilizce) hazırlanmış, güncel bakiye ve ödeme detaylarını içeren hatırlatma mesajlarını tek tıkla gönderin.
+🌍 Çift Dil & Çift Kanal: Yabancı sakinler için İngilizce, yerli sakinler için Türkçe şablonlar otomatik devreye girer. İster resmiyet için E-Posta, ister hız için WhatsApp kullanın.
+Sonuç: Arama yok, kağıt yok, dil bariyeri yok. Sadece tek tuşla profesyonel iletişim.
 ---
 * **💸 Kişiselleştirilmiş Tahsilat Asistanı**  
 Genel hatırlatmalar yerine, isme ve borca özel mesajlar gönderilir:  
