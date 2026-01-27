@@ -10,7 +10,7 @@ Modern, hızlı ve WhatsApp entegrasyonlu web tabanlı apartman yönetim paneli.
 Sıradan SMS’leri unutun. Site yönetimi artık WhatsApp kadar hızlı.  
 Node.js altyapısıyla geliştirilen akıllı iletişim merkezi; site sakinlerinizle canlı bir asistan gibi konuşur, tahsilat süreçlerini hızlandırır ve yönetici üzerindeki operasyonel yükü neredeyse sıfırlar.
 ---
-* **🚀 Otomatik Onboarding (Hoş Geldin Botu)**  
+* **🚀 Onboarding (Hoş Geldin Botu)**  
 Yeni bir sakin sisteme kaydedildiği anda;  
 tek tuşla “Sitemize Hoş Geldiniz” mesajı, kullanıcı adı, şifre ve yönetim IBAN bilgileri saniyeler içinde WhatsApp üzerinden iletilir.  
 → Arama yok, kağıt yok, karmaşa yok.
